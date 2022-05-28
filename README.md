@@ -1,7 +1,5 @@
-### Hi there 👋
+# 🛠 Under Construction 🚧
 
-I'm Jeong
-Trying to figure out what to put here with: 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JS](https://img.shields.io/badge/-JavaScript-yellow)
 ![React](https://img.shields.io/badge/-React-9cf) 
