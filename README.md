@@ -1,5 +1,10 @@
 # 🛠 Under Construction 🚧
 
+<div align="center">
+  ## Contact Me
+  <a href="mailto:hihjlee0505@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</div>  
+
 <!--
 **jlee0505/jlee0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
