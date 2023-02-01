@@ -1,8 +1,15 @@
 
 
 <div align="center">
-
+  
+## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jlee_0505)](https://solved.ac/jlee_0505)
+
+## Git Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlee0505)]
+
+
+
 
 </div>  
 
