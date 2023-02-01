@@ -1,13 +1,9 @@
 
 
 <div align="center">
-  <h1>🛠 Under Construction 🚧</h1>
-    <br/>  <br/>
-  Contact Me
-  <br/>  <br/>
-  <div>
-    <a href="mailto:hihjlee0505@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jlee_0505)](https://solved.ac/jlee_0505)
+
 </div>  
 
 <!--
