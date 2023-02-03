@@ -15,7 +15,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jlee_0505)](https://solved.ac/jlee_0505)
 <!-- Large version -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jlee_0505)](https://solved.ac/jlee_0505) -->
-<img src="http://mazandi.herokuapp.com/api?handle=jlee_0505&theme=dark"/>
+<!-- 백준 잔디 -->
+<!-- <img src="http://mazandi.herokuapp.com/api?handle=jlee_0505&theme=dark"/> -->
 </div>  
 
 <!--
