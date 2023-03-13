@@ -11,12 +11,6 @@
 ## Languages
   <!-- small version -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlee0505)](https://github.com/jlee0505/github-readme-stats)
-## Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jlee_0505)](https://solved.ac/jlee_0505)
-<!-- Large version -->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jlee_0505)](https://solved.ac/jlee_0505) -->
-<!-- 백준 잔디 -->
-<!-- <img src="http://mazandi.herokuapp.com/api?handle=jlee_0505&theme=dark"/> -->
 </div>  
 
 <!--
